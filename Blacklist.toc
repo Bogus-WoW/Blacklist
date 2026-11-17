@@ -1,0 +1,12 @@
+## Interface: 16001, 120105
+## Title: Blacklist
+## Notes: Your own list of players to avoid, with notes. Warns you in the Group Finder and when inviting, and swaps lists with friends.
+## Author: Adam
+## Version: 1.1.0
+## SavedVariables: BlacklistDB
+
+Core.lua
+Share.lua
+Alerts.lua
+Nameplates.lua
+UI.lua
